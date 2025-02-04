@@ -1,9 +1,9 @@
 {
   "all": [
     {
-      "title": "",
-      "subtitle": "",
-      "desc": "",
+      "title": "Portfolio",
+      "subtitle": "ReactJS/TailwindCSS",
+      "desc": "Bem-vindo ao meu portfólio digital, um espaço onde a paixão por design e a expertise em desenvolvimento web se encontram. Cada projeto apresentado aqui é uma demonstração do meu compromisso em criar experiências digitais inovadoras e de alta qualidade.",
       "github": "https://github.com/codexfast/gilberto.github.io.git",
       "thumb": "https://raw.githubusercontent.com/codexfast/projects/refs/heads/main/portfolio-sm.png"
     }
